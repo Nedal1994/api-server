@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "nedal",
+      "password": "root",
+      "database": "lab4",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "nedal",
+      "password": "password",
+      "database": "lab4",
+      "host": "127.0.0.1",
+      "dialect": "sqlite:memory:"
+    },
+    "production": {
+      "username": "nedal",
+      "password": "password",
+      "database": "lab4",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    }
+  }
